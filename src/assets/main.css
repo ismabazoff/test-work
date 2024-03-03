@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 10px;
+}
+
+h2 {
+    display: inline-block;
+}
+
+ul li {
+    list-style-type: none;
+}
